@@ -430,8 +430,3 @@ def climb_stairs(n):
 **Complexity:** Time O(n), Space O(1)
 
 ---
-
-## Testing
-- [x] All solutions run in Python 3 on the examples above
-- [x] Edge cases checked: empty strings, single element, even and odd length lists, single row or column matrix
-- [ ] No automated test suite yet
